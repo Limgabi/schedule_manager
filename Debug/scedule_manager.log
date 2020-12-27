@@ -1,0 +1,20 @@
+﻿  schedule_manager.c
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(209,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(210,38): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(211,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(212,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(213,39): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(214,38): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(215,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(220,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(221,38): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(222,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(223,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(224,39): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(225,38): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(226,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(306,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(307,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(312,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\limga\OneDrive\Desktop\schedule_manager\scedule_manager\schedule_manager.c(313,37): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  scedule_manager.vcxproj -> C:\Users\limga\OneDrive\Desktop\schedule_manager\Debug\scedule_manager.exe
